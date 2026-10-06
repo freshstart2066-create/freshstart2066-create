@@ -132,8 +132,8 @@ stateDiagram-v2
 
 - ⚡ **[ELYRA](https://github.com/freshstart2066-create/elyra)** — Autonomous Mobile Edge AI & Telemetry Assistant (Standalone Android APK)
 - 🔐 **[OPAP Protocol](https://github.com/freshstart2066-create/opap-protocol)** — Open Product Authentication Protocol (GS1 2027 & EU DPP 2.0)
-- 🛰️ **[Satellite Tracker](https://github.com/freshstart2066-create/satellite-tracker)** — SGP4 Orbital Propagation & Ground Station Pass Predictor
-- 🤖 **[Cherub Multi-Agent](https://github.com/freshstart2066-create/cherub)** — Autonomous Task Routing & Verification DAG Swarm
+- 🛰️ **[Project Cherub](https://github.com/freshstart2066-create/project-cherub)** — Autonomous Spacecraft Astrodynamics & C2 Engine (SGP4/SDP4)
+- 🤖 **[CortexFlow](https://github.com/freshstart2066-create/cortexflow)** — Autonomous Task Routing & Verification DAG Swarm
 - 🌐 **[Interactive Portfolio](https://freshstart2066-create.github.io)** — Live Motion-Designed Interactive Hub
 
 ---
